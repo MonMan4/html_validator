@@ -1,5 +1,5 @@
 # HTML Validation with Stacks
-[![](https://github.com/mikeizbicki/html_validator/workflows/tests/badge.svg)](https://github.com/mikeizbicki/html_validator/actions?query=workflow%3Atests)
+[![](https://github.com/MonMan4/html_validator/workflows/tests/badge.svg)](https://github.com/MonMan4/html_validator/actions?query=workflow%3Atests)
 
 You will implement an extended version of the balanced parentheses algorithm that checks whether html tags are balanced.
 
