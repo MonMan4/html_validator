@@ -44,7 +44,7 @@ def _extract_tags(html):
             j = html.find('>', i)
             if j == -1:
                 raise ValueError('found < without matching >')
-            raw = html[i:j+1]
+            raw = html[i:j + 1]
             tags.append(_strip_attributes(raw))
             i = j + 1
         else:
